@@ -2,4 +2,4 @@
 manga manager
 
 # shana-server
-https://github.com/newreport/virginia-server
+https://github.com/newreport/shana-server
